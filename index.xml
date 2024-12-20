@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Welcome to My Site on Catherine Nelson</title>
-    <link>http://catherinenelson1.github.io/</link>
+    <link>http://catherinenelson1.com/</link>
     <description>Recent content in Welcome to My Site on Catherine Nelson</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
-    <atom:link href="http://catherinenelson1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://catherinenelson1.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>http://catherinenelson1.github.io/books/</link>
+      <link>http://catherinenelson1.com/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://catherinenelson1.github.io/books/</guid>
+      <guid>http://catherinenelson1.com/books/</guid>
       <description>Software Engineering for Data Scientists Data science happens in code. The ability to write reproducible, robust, scaleable code is key to a data science project&amp;rsquo;s success—and is absolutely essential for those working with production code. This practical book bridges the gap between data science and software engineering, and clearly explains how to apply the best practices from software engineering to data science.
 Buy it on Amazon
 Read it on the O&amp;rsquo;Reilly Platform</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://catherinenelson1.github.io/projects/</link>
+      <link>http://catherinenelson1.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://catherinenelson1.github.io/projects/</guid>
+      <guid>http://catherinenelson1.com/projects/</guid>
       <description>Here are some of my recent projects:
 Project One
 Description of your first project Technologies used Links to demo/code Project Two
@@ -28,9 +28,9 @@ Description of your second project Technologies used Links to demo/code </descri
     </item>
     <item>
       <title>Resume</title>
-      <link>http://catherinenelson1.github.io/resume/</link>
+      <link>http://catherinenelson1.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://catherinenelson1.github.io/resume/</guid>
+      <guid>http://catherinenelson1.com/resume/</guid>
       <description>Author of &amp;ldquo;Software Engineering for Data Scientists&amp;rdquo;, a guide for data scientists who want to level up their coding skills, published by O&amp;rsquo;Reilly in May 2024. I&amp;rsquo;m currently consulting for GenAI startups and looking for my next role bridging the software engineering and data science spaces.
 Previously, I was a Principal Data Scientist at SAP Concur. I have extensive experience deploying NLP models to production and evaluating machine learning. I&amp;rsquo;m also co-author of the book &amp;ldquo;Building Machine Learning Pipelines&amp;rdquo;, published by O&amp;rsquo;Reilly in 2020.</description>
     </item>
